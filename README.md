@@ -1,2 +1,2 @@
-# dchat
+# Direct Chat (dchat)
 CHAT DIRECTLY AND DISCREETLY WITH ANYONE
